@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="2.0.05" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source=""/>
+    <VariableText/>
+    <UIPrefs/>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="C00 Cut"/>
+        <minPower Value="85"/>
+        <maxPower Value="85"/>
+        <minPower2 Value="85"/>
+        <maxPower2 Value="85"/>
+        <speed Value="10"/>
+        <numPasses Value="2"/>
+        <doOutput Value="1"/>
+        <priority Value="0"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C02 Score"/>
+        <minPower Value="35"/>
+        <maxPower Value="35"/>
+        <minPower2 Value="35"/>
+        <maxPower2 Value="35"/>
+        <speed Value="120"/>
+        <numPasses Value="1"/>
+        <doOutput Value="1"/>
+        <priority Value="2"/>
+    </CutSetting>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V16.000 5.000c0x1c1x1LV66.000 5.000c0x1c1x1LV66.000 55.000c0x1c1x1LV16.000 55.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V39.000 28.575c0x1c1x1LV43.000 28.575c0x1c1x1LV43.000 31.425c0x1c1x1LV39.000 31.425c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V6.000 5.000c0x1c1x1LV10.000 5.000c0x1c1x1LV10.000 8.000c0x1c1x1LV11.000 8.000c0x1c1x1LV11.000 138.000c0x1c1x1LV10.000 138.000c0x1c1x1LV10.000 141.000c0x1c1x1LV6.000 141.000c0x1c1x1LV6.000 138.000c0x1c1x1LV5.000 138.000c0x1c1x1LV5.000 8.000c0x1c1x1LV6.000 8.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 4LineL4 5LineL5 6LineL6 7LineL7 8LineL8 9LineL9 10LineL10 11LineL11 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V103.000 5.000c0x1c1x1LV127.000 5.000c0x1c1x1LV127.000 30.000c0x1c1x1LV103.000 30.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V132.000 5.000c0x1c1x1LV156.000 5.000c0x1c1x1LV156.000 30.000c0x1c1x1LV132.000 30.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V161.000 5.000c0x1c1x1LV185.000 5.000c0x1c1x1LV185.000 30.000c0x1c1x1LV161.000 30.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V190.000 5.000c0x1c1x1LV214.000 5.000c0x1c1x1LV214.000 30.000c0x1c1x1LV190.000 30.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V71.000 5.000c0x1c1x1LV98.000 5.000c0x1c1x1LV98.000 32.000c0x1c1x1LV71.000 32.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V82.500 17.075c0x1c1x1LV86.500 17.075c0x1c1x1LV86.500 19.925c0x1c1x1LV82.500 19.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+</LightBurnProject>

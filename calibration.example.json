@@ -1,0 +1,111 @@
+{
+    "_comment": "Beispiel-Kalibrierdatei. Kerf-Werte sind Startwerte (calibrated_at: null = nicht gemessen). Pfad per LASER_CALIBRATION setzen oder nach ~/.laser/calibration.json kopieren.",
+    "active_machine": "monport-reno-65",
+    "machines": {
+        "monport-reno-65": {
+            "active_material": "birke-3mm",
+            "bed_size_mm": [
+                400,
+                600
+            ],
+            "materials": {
+                "birke-3mm": {
+                    "name": "Birke-Sperrholz 3mm",
+                    "thickness": 3.0,
+                    "kerf": 0.15,
+                    "calibrated_at": null,
+                    "settings": {
+                        "cut": {
+                            "speed_mm_s": 10,
+                            "power_pct": 85,
+                            "passes": 2
+                        },
+                        "engrave_score": {
+                            "speed_mm_s": 100,
+                            "power_pct": 35,
+                            "passes": 1
+                        },
+                        "engrave_image": {
+                            "speed_mm_s": 250,
+                            "power_pct": 30,
+                            "passes": 1,
+                            "dither": "jarvis"
+                        }
+                    }
+                },
+                "pappel-3mm": {
+                    "name": "Pappel-Sperrholz 3mm",
+                    "thickness": 3.0,
+                    "kerf": 0.18,
+                    "calibrated_at": null,
+                    "settings": {
+                        "cut": {
+                            "speed_mm_s": 12,
+                            "power_pct": 80,
+                            "passes": 2
+                        },
+                        "engrave_score": {
+                            "speed_mm_s": 100,
+                            "power_pct": 30,
+                            "passes": 1
+                        },
+                        "engrave_image": {
+                            "speed_mm_s": 250,
+                            "power_pct": 25,
+                            "passes": 1,
+                            "dither": "jarvis"
+                        }
+                    }
+                },
+                "birke-4mm": {
+                    "name": "Birke-Sperrholz 4mm",
+                    "thickness": 4.0,
+                    "kerf": 0.2,
+                    "calibrated_at": null,
+                    "settings": {
+                        "cut": {
+                            "speed_mm_s": 8,
+                            "power_pct": 90,
+                            "passes": 2
+                        },
+                        "engrave_score": {
+                            "speed_mm_s": 100,
+                            "power_pct": 35,
+                            "passes": 1
+                        },
+                        "engrave_image": {
+                            "speed_mm_s": 250,
+                            "power_pct": 30,
+                            "passes": 1,
+                            "dither": "jarvis"
+                        }
+                    }
+                },
+                "birke-2mm": {
+                    "name": "Birke-Sperrholz 2mm",
+                    "thickness": 2.0,
+                    "kerf": 0.12,
+                    "calibrated_at": null,
+                    "settings": {
+                        "cut": {
+                            "speed_mm_s": 12,
+                            "power_pct": 75,
+                            "passes": 1
+                        },
+                        "engrave_score": {
+                            "speed_mm_s": 120,
+                            "power_pct": 30,
+                            "passes": 1
+                        },
+                        "engrave_image": {
+                            "speed_mm_s": 280,
+                            "power_pct": 25,
+                            "passes": 1,
+                            "dither": "jarvis"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

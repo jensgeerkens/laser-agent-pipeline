@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="2.0.05" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source=""/>
+    <VariableText/>
+    <UIPrefs/>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="C00 Cut"/>
+        <minPower Value="85"/>
+        <maxPower Value="85"/>
+        <minPower2 Value="85"/>
+        <maxPower2 Value="85"/>
+        <speed Value="10"/>
+        <numPasses Value="2"/>
+        <doOutput Value="1"/>
+        <priority Value="0"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C02 Score"/>
+        <minPower Value="35"/>
+        <maxPower Value="35"/>
+        <minPower2 Value="35"/>
+        <maxPower2 Value="35"/>
+        <speed Value="120"/>
+        <numPasses Value="1"/>
+        <doOutput Value="1"/>
+        <priority Value="2"/>
+    </CutSetting>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V5.000 8.000c0x1c1x1LV12.333 8.000c0x1c1x1LV12.333 5.000c0x1c1x1LV22.333 5.000c0x1c1x1LV22.333 8.000c0x1c1x1LV29.667 8.000c0x1c1x1LV29.667 5.000c0x1c1x1LV39.667 5.000c0x1c1x1LV39.667 8.000c0x1c1x1LV47.000 8.000c0x1c1x1LV47.000 27.500c0x1c1x1LV50.000 27.500c0x1c1x1LV50.000 37.500c0x1c1x1LV47.000 37.500c0x1c1x1LV47.000 57.000c0x1c1x1LV50.000 57.000c0x1c1x1LV50.000 67.000c0x1c1x1LV47.000 67.000c0x1c1x1LV47.000 86.500c0x1c1x1LV50.000 86.500c0x1c1x1LV50.000 96.500c0x1c1x1LV47.000 96.500c0x1c1x1LV47.000 116.000c0x1c1x1LV50.000 116.000c0x1c1x1LV50.000 126.000c0x1c1x1LV47.000 126.000c0x1c1x1LV47.000 145.500c0x1c1x1LV50.000 145.500c0x1c1x1LV50.000 155.500c0x1c1x1LV47.000 155.500c0x1c1x1LV47.000 175.000c0x1c1x1LV39.667 175.000c0x1c1x1LV39.667 178.000c0x1c1x1LV29.667 178.000c0x1c1x1LV29.667 175.000c0x1c1x1LV22.333 175.000c0x1c1x1LV22.333 178.000c0x1c1x1LV12.333 178.000c0x1c1x1LV12.333 175.000c0x1c1x1LV5.000 175.000c0x1c1x1LV5.000 8.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 4LineL4 5LineL5 6LineL6 7LineL7 8LineL8 9LineL9 10LineL10 11LineL11 12LineL12 13LineL13 14LineL14 15LineL15 16LineL16 17LineL17 18LineL18 19LineL19 20LineL20 21LineL21 22LineL22 23LineL23 24LineL24 25LineL25 26LineL26 27LineL27 28LineL28 29LineL29 30LineL30 31LineL31 32LineL32 33LineL33 34LineL34 35LineL35 36LineL36 37LineL37 38LineL38 39LineL39 40LineL40 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V12.333 90.075c0x1c1x1LV22.333 90.075c0x1c1x1LV22.333 92.925c0x1c1x1LV12.333 92.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V29.667 90.075c0x1c1x1LV39.667 90.075c0x1c1x1LV39.667 92.925c0x1c1x1LV29.667 92.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V55.000 8.000c0x1c1x1LV62.333 8.000c0x1c1x1LV62.333 5.000c0x1c1x1LV72.333 5.000c0x1c1x1LV72.333 8.000c0x1c1x1LV79.667 8.000c0x1c1x1LV79.667 5.000c0x1c1x1LV89.667 5.000c0x1c1x1LV89.667 8.000c0x1c1x1LV97.000 8.000c0x1c1x1LV97.000 27.500c0x1c1x1LV100.000 27.500c0x1c1x1LV100.000 37.500c0x1c1x1LV97.000 37.500c0x1c1x1LV97.000 57.000c0x1c1x1LV100.000 57.000c0x1c1x1LV100.000 67.000c0x1c1x1LV97.000 67.000c0x1c1x1LV97.000 86.500c0x1c1x1LV100.000 86.500c0x1c1x1LV100.000 96.500c0x1c1x1LV97.000 96.500c0x1c1x1LV97.000 116.000c0x1c1x1LV100.000 116.000c0x1c1x1LV100.000 126.000c0x1c1x1LV97.000 126.000c0x1c1x1LV97.000 145.500c0x1c1x1LV100.000 145.500c0x1c1x1LV100.000 155.500c0x1c1x1LV97.000 155.500c0x1c1x1LV97.000 175.000c0x1c1x1LV89.667 175.000c0x1c1x1LV89.667 178.000c0x1c1x1LV79.667 178.000c0x1c1x1LV79.667 175.000c0x1c1x1LV72.333 175.000c0x1c1x1LV72.333 178.000c0x1c1x1LV62.333 178.000c0x1c1x1LV62.333 175.000c0x1c1x1LV55.000 175.000c0x1c1x1LV55.000 8.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 4LineL4 5LineL5 6LineL6 7LineL7 8LineL8 9LineL9 10LineL10 11LineL11 12LineL12 13LineL13 14LineL14 15LineL15 16LineL16 17LineL17 18LineL18 19LineL19 20LineL20 21LineL21 22LineL22 23LineL23 24LineL24 25LineL25 26LineL26 27LineL27 28LineL28 29LineL29 30LineL30 31LineL31 32LineL32 33LineL33 34LineL34 35LineL35 36LineL36 37LineL37 38LineL38 39LineL39 40LineL40 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V62.333 90.075c0x1c1x1LV72.333 90.075c0x1c1x1LV72.333 92.925c0x1c1x1LV62.333 92.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V79.667 90.075c0x1c1x1LV89.667 90.075c0x1c1x1LV89.667 92.925c0x1c1x1LV79.667 92.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V213.000 5.000c0x1c1x1LV263.000 5.000c0x1c1x1LV263.000 47.000c0x1c1x1LV213.000 47.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V213.075 12.333c0x1c1x1LV215.925 12.333c0x1c1x1LV215.925 22.333c0x1c1x1LV213.075 22.333c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V260.075 12.333c0x1c1x1LV262.925 12.333c0x1c1x1LV262.925 22.333c0x1c1x1LV260.075 22.333c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V213.075 29.667c0x1c1x1LV215.925 29.667c0x1c1x1LV215.925 39.667c0x1c1x1LV213.075 39.667c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V260.075 29.667c0x1c1x1LV262.925 29.667c0x1c1x1LV262.925 39.667c0x1c1x1LV260.075 39.667c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V218.000 44.075c0x1c1x1LV228.000 44.075c0x1c1x1LV228.000 46.925c0x1c1x1LV218.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V233.000 44.075c0x1c1x1LV243.000 44.075c0x1c1x1LV243.000 46.925c0x1c1x1LV233.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V248.000 44.075c0x1c1x1LV258.000 44.075c0x1c1x1LV258.000 46.925c0x1c1x1LV248.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V268.000 5.000c0x1c1x1LV318.000 5.000c0x1c1x1LV318.000 47.000c0x1c1x1LV268.000 47.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V268.075 12.333c0x1c1x1LV270.925 12.333c0x1c1x1LV270.925 22.333c0x1c1x1LV268.075 22.333c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V315.075 12.333c0x1c1x1LV317.925 12.333c0x1c1x1LV317.925 22.333c0x1c1x1LV315.075 22.333c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V268.075 29.667c0x1c1x1LV270.925 29.667c0x1c1x1LV270.925 39.667c0x1c1x1LV268.075 39.667c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V315.075 29.667c0x1c1x1LV317.925 29.667c0x1c1x1LV317.925 39.667c0x1c1x1LV315.075 39.667c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V273.000 44.075c0x1c1x1LV283.000 44.075c0x1c1x1LV283.000 46.925c0x1c1x1LV273.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V288.000 44.075c0x1c1x1LV298.000 44.075c0x1c1x1LV298.000 46.925c0x1c1x1LV288.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V303.000 44.075c0x1c1x1LV313.000 44.075c0x1c1x1LV313.000 46.925c0x1c1x1LV303.000 46.925c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V326.000 5.000c0x1c1x1LV376.000 5.000c0x1c1x1LV376.000 12.333c0x1c1x1LV379.000 12.333c0x1c1x1LV379.000 22.333c0x1c1x1LV376.000 22.333c0x1c1x1LV376.000 29.667c0x1c1x1LV379.000 29.667c0x1c1x1LV379.000 39.667c0x1c1x1LV376.000 39.667c0x1c1x1LV376.000 47.000c0x1c1x1LV326.000 47.000c0x1c1x1LV326.000 39.667c0x1c1x1LV323.000 39.667c0x1c1x1LV323.000 29.667c0x1c1x1LV326.000 29.667c0x1c1x1LV326.000 22.333c0x1c1x1LV323.000 22.333c0x1c1x1LV323.000 12.333c0x1c1x1LV326.000 12.333c0x1c1x1LV326.000 5.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 4LineL4 5LineL5 6LineL6 7LineL7 8LineL8 9LineL9 10LineL10 11LineL11 12LineL12 13LineL13 14LineL14 15LineL15 16LineL16 17LineL17 18LineL18 19LineL19 20LineL20 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.000 8.000c0x1c1x1LV110.000 8.000c0x1c1x1LV110.000 5.000c0x1c1x1LV120.000 5.000c0x1c1x1LV120.000 8.000c0x1c1x1LV125.000 8.000c0x1c1x1LV125.000 5.000c0x1c1x1LV135.000 5.000c0x1c1x1LV135.000 8.000c0x1c1x1LV140.000 8.000c0x1c1x1LV140.000 5.000c0x1c1x1LV150.000 5.000c0x1c1x1LV150.000 8.000c0x1c1x1LV155.000 8.000c0x1c1x1LV155.000 175.000c0x1c1x1LV150.000 175.000c0x1c1x1LV150.000 178.000c0x1c1x1LV140.000 178.000c0x1c1x1LV140.000 175.000c0x1c1x1LV135.000 175.000c0x1c1x1LV135.000 178.000c0x1c1x1LV125.000 178.000c0x1c1x1LV125.000 175.000c0x1c1x1LV120.000 175.000c0x1c1x1LV120.000 178.000c0x1c1x1LV110.000 178.000c0x1c1x1LV110.000 175.000c0x1c1x1LV105.000 175.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 4LineL4 5LineL5 6LineL6 7LineL7 8LineL8 9LineL9 10LineL10 11LineL11 12LineL12 13LineL13 14LineL14 15LineL15 16LineL16 17LineL17 18LineL18 19LineL19 20LineL20 21LineL21 22LineL22 23LineL23 24LineL24 25LineL25 26LineL26 27LineL27 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.075 27.500c0x1c1x1LV107.925 27.500c0x1c1x1LV107.925 37.500c0x1c1x1LV105.075 37.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V152.075 27.500c0x1c1x1LV154.925 27.500c0x1c1x1LV154.925 37.500c0x1c1x1LV152.075 37.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.075 57.000c0x1c1x1LV107.925 57.000c0x1c1x1LV107.925 67.000c0x1c1x1LV105.075 67.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V152.075 57.000c0x1c1x1LV154.925 57.000c0x1c1x1LV154.925 67.000c0x1c1x1LV152.075 67.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.075 86.500c0x1c1x1LV107.925 86.500c0x1c1x1LV107.925 96.500c0x1c1x1LV105.075 96.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V152.075 86.500c0x1c1x1LV154.925 86.500c0x1c1x1LV154.925 96.500c0x1c1x1LV152.075 96.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.075 116.000c0x1c1x1LV107.925 116.000c0x1c1x1LV107.925 126.000c0x1c1x1LV105.075 126.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V152.075 116.000c0x1c1x1LV154.925 116.000c0x1c1x1LV154.925 126.000c0x1c1x1LV152.075 126.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V105.075 145.500c0x1c1x1LV107.925 145.500c0x1c1x1LV107.925 155.500c0x1c1x1LV105.075 155.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V152.075 145.500c0x1c1x1LV154.925 145.500c0x1c1x1LV154.925 155.500c0x1c1x1LV152.075 155.500c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V160.000 5.000c0x1c1x1LV208.000 5.000c0x1c1x1LV208.000 170.000c0x1c1x1LV160.000 170.000c0x1c1x1L</VertList>
+        <PrimList>LineL0 1LineL1 2LineL2 3LineL3 0</PrimList>
+    </Shape>
+</LightBurnProject>
