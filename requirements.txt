@@ -10,6 +10,7 @@ shapely
 svgwrite
 rtree
 scipy
+networkx
 # laser-prep (nur für die Hintergrundentfernung nötig)
 # rembg[cpu]
 # boxes.py (GPL-3.0, externe Abhängigkeit, optional):
